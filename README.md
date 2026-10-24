@@ -1,4 +1,4 @@
-# 💫 About Me: Hi, I'm Shahwaiz Karim, A Fullstack Software Engineer with over 4 years of experience. 
+# 💫 Hi, I'm Shahwaiz Karim, A Fullstack Software Engineer with over 4 years of experience. 
 🔭 I’m currently working on [iFluenter](https://ifluenter.com)<br><br>🌱 I’m currently learning Redis, Jest and Kafka<br><br>💬 Ask me about Next.js, React.js, MERN stack.<br><br>📫 How to reach me shahwaix.me@gmail.com<br><br>
 
 
